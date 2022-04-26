@@ -1,6 +1,0 @@
-from google.colab import drive
-drive.mount('/content/drive')from google.colab import drive
-import os
-# start your code here
-os.chdir("/content/drive/MyDrive/day3") # change your working folder here
-# end your code here
